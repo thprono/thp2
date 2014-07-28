@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Example",
+    "desc": "This is a category",
+    "sub": [
+             {
+               "id": 1,
+               "name": "Sub-Example",
+               "desc": "This is a subcategory",
+               "sub": []
+             }
+           ]
+  },
+  {
+    "id": 2,
+    "name": "Site Discussion",
+    "desc": "Discussion of the THP2 site",
+    "sub": []
+  }
+]

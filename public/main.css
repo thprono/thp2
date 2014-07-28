@@ -1,0 +1,8 @@
+:not(.title) {
+  font-family: "DejaVu Sans Mono", "Consolas", monospace;
+  /*font-size: 90%;*/
+}
+
+.desc {
+  font-size: 90%;
+}

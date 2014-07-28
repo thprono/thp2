@@ -1,0 +1,15 @@
+{
+  "name": "thp2",
+  "description": "Touhou Prono Website 2.0 - Alpha",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.7.1",
+    "redis": "*",
+    "connect-redis": "2.x",
+    "express-session": "1.7.2",
+    "cookie-parser": "*",
+    "body-parser": "*",
+    "uuid": "*"
+  }
+}
